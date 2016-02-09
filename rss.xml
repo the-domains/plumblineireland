@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Plumbline Ireland]]></title>
         <description><![CDATA[Plumbline Ireland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/plumblineireland/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 19:49:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 19:52:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/plumblineireland/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbd9f6bf-1aec-4def-a7f3-628dea643b34.jpg">]]></description>
-            <link>undefined55f32982-f856-4c52-b605-0776c45642ca/index.html</link>
+            <title><![CDATA[THIS IS PLUMBLINE IRELAND]]></title>
+            <description><![CDATA[<article><h1>THIS IS PLUMBLINE IRELAND</h1><p>Our Network</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89ca2c81b04962c73f11d38c3eed9596e98f6775.jpg"></article>]]></description>
+            <link>https://thegrid.ai/plumblineireland/55f32982-f856-4c52-b605-0776c45642ca/index.html</link>
             <guid isPermaLink="false">55f32982-f856-4c52-b605-0776c45642ca</guid>
-            <pubDate>Tue, 09 Feb 2016 19:49:05 GMT</pubDate>
+            <pubDate>Tue, 09 Feb 2016 19:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
